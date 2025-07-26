@@ -1,0 +1,63 @@
+Station A,Station B,Travel Time (minutes),Distance (km)
+Rithala,Rohini West,2,5
+Rohini West,Rohini East,3,7
+Rohini East,Pitampura,2,6
+Pitampura,Netaji Subhash Place,4,10
+Netaji Subhash Place,Shalimar Bagh,2,5
+Shalimar Bagh,Keshav Puram,3,7
+Keshav Puram,Shastri Nagar,4,8
+Shastri Nagar,Inderlok,3,6
+Inderlok,Tis Hazari,4,9
+Tis Hazari,Pul Bangash,2,5
+Pul Bangash,Kashmere Gate,6,15
+Dwarka Sec 21,Dwarka Sec 8,3
+Dwarka Sec 8,Dwarka Sec 9,2
+Dwarka Sec 9,Dwarka Sec 10,5
+Dwarka Sec 10,Janakpuri West,6,12
+Janakpuri West,Rajouri Garden,4,9
+Rajouri Garden,Rajiv Chowk,5,10
+Rajiv Chowk,Mandi House,3,7
+Mandi House,Akshardham,4,8
+Akshardham,Noida Sec 15,6
+Noida Sec 15,Noida Electronic City,7,14
+Samaypur Badli,Jahangirpuri,4,9
+Jahangirpuri,Adarsh Nagar,2,5
+Adarsh Nagar,Azadpur,3,8
+Azadpur,Kashmere Gate,5,12
+Kashmere Gate,Central Secretariat,6,14
+Central Secretariat,Hauz Khas,7,15
+Hauz Khas,HUDA City Centre,4,10
+Mandi House,Pul Bangash,8,16
+Rajiv Chowk,Kashmere Gate,7,15
+Noida City Centre,Mandi House,12,25
+Janakpuri West,Kashmere Gate,15,30
+Kashmere Gate,Lal Quila,3,6
+Lal Quila,Jama Masjid,4,8
+Jama Masjid,ITO,6,12
+ITO,Mandi House,5,11
+Mandi House,Nehru Place,3,7
+Nehru Place,Badarpur,6,13
+Dwarka Sec 21,Lal Quila,10,20
+Noida Electronic City,Shalimar Bagh,15,30
+Nehru Place,Samaypur Badli,8,18
+Azadpur,Rajouri Garden,9,21
+Janakpuri West,Dabri Mor,4,8
+Dabri Mor,Dashrath Puri,3,6
+Dashrath Puri,Palam,5,10
+Palam,Sadar Bazar Cantt,6,12
+Sadar Bazar Cantt,IGI Airport,7,14
+IGI Airport,Shankar Vihar,3,6
+Shankar Vihar,Vasant Vihar,4,8
+Vasant Vihar,Munirka,5,10
+Munirka,IIT Delhi,6,12
+IIT Delhi,Hauz Khas,4,9
+Hauz Khas,Chirag Delhi,3,6
+Chirag Delhi,Greater Kailash,4,7
+Greater Kailash,Nehru Enclave,5,11
+Nehru Enclave,Kalkaji Mandir,6,13
+Kalkaji Mandir,Botanical Garden,8,16
+Majlis Park,Azadpur,4,9
+Azadpur,Shalimar Bagh,3,7
+Shalimar Bagh,Netaji Subhash Place,5,11
+Netaji Subhash Place,Rajouri Garden,6,12
+Rajouri Garden,Mayapuri,4,8
