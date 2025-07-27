@@ -333,7 +333,7 @@ void removeStation(Graph *g, char *stationName, char stations[MAX_STATIONS][MAX_
 	// now remove the station from the delhimetro csv
 	removeConnections("Csv_Files/delhiMetro.csv", stationName);
 	
-    	printf("Station '%s' removed successfully.\n", stationName);
+    printf("Station '%s' removed successfully.\n", stationName);
 }
 
 // function is used to remove the station form the first csv
